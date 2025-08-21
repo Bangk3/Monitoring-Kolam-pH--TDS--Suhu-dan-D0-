@@ -30,6 +30,10 @@ Sistem ini juga dilengkapi dengan LCD untuk menampilkan data secara lokal dan we
 - LCD I2C 20x4
 - Koneksi WiFi
 
+## Gambar Rangkaian
+Berikut adalah gambar rangkaian yang digunakan pada proyek ini:
+
+![Rangkaian Monitoring Kolam](rangkaian_bb2.png)
 
 
 ## Instalasi Library
